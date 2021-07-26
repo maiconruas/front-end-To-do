@@ -1,0 +1,48 @@
+.container{
+    width: 85%;
+    margin:auto;
+}
+
+h1{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 1rem;
+    color:rgb(31, 30, 30)
+}
+
+.content{
+    width: 100%;
+}
+
+.badge{
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.badge button{
+    margin-top: 1rem;
+    width: 50%;
+}
+
+p{
+    text-align: end;
+    font-weight: 600;
+    color: rgb(93, 91, 91);
+    padding-bottom: 0;
+}
+
+.mat-card{
+    margin-top: .8rem;
+    padding: .8rem;
+    border: 5px solid whitesmoke;
+    background-color: rgb(206, 199, 199);
+}
+.actions{
+    text-align: end;
+ }
+ 
+ .actions button{
+     margin: .1rem;
+ }
